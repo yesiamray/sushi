@@ -23,7 +23,7 @@ if (btn) {
 var typedElements = {
     elem: [
         { elmId: 'title', content: 'Heya, I\'m <span class="color" id="name">Ray</span>!' },
-        { elmId: 'dis', content: `I make <span class="color">Bots, websites and a lot of <br /> cool stuff!</span>` },
+        { elmId: 'dis', content: `I’m a <span class="color">bot maker</span>, <span class="color">web developer</span> and cool stuff enthusiast who loves to build things that work and look great!` },
     ]
 };
 var currentElementIndex = 0;
